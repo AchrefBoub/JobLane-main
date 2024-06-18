@@ -26,14 +26,14 @@ export const JobCard = ({ job }) => {
                 <div className='flex flex-col '>
 
                     <div>
-                        <p className='md:text-xl text-lg'>{job.title}</p>
+                        <p className='md:text-xl text-lg'>{"سكرتير بشركة خاصة"}</p>
                     </div>
                     <div className='flex justify-between gap-2 '>
                         <div className='flex flex-col gap-1'>
-                            <p className='text-sm'>{job.companyName}</p>
-                            <p className='text-sm'>{job.exp}</p>
-                            <p className='text-sm md:flex hidden'>{job.description.slice(0, 64)}...</p>
-                            <p className='text-sm flex md:hidden'>{job.description.slice(0, 39)}...</p>
+                            <p className='text-sm'>{"شركة محاسبة"}</p>
+                            <p className='text-sm'>{"دوام كلي"}</p>
+                            <p className='text-sm md:flex hidden'>{"نبحث عن موظف ذو خبرة لا تقل عن سنتين"}</p>
+                            <p className='text-sm flex md:hidden'>{"دوام كلي"}</p>
                         </div>
                         <div className='absolute md:right-3 right-0 md:pt-0 top-3' >
                             <button className='blueCol font-semibold md:text-sm text-xs px-3 py-1 ' >تقديم الآن</button>
@@ -41,7 +41,13 @@ export const JobCard = ({ job }) => {
                     </div>
 
                 </div>
+
+                
+
+                
             </div>
+
+            
 
             <div className='flex md:gap-8 gap-3 md:text-sm text-xs'>
                 <span>{convertDateFormat(job.createdAt.substr(0, 10))}</span>
@@ -49,6 +55,15 @@ export const JobCard = ({ job }) => {
                 <span>{job.location}</span>
             </div>
 
+            
+
+
+            
+
         </Link>
+
+        
+
+        
     );
 }
