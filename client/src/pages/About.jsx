@@ -16,9 +16,9 @@ export const About = () => {
           <div>
             <p className='text-2xl text-yellow-500 text-right'>فريقنا </p>
             <ul className='list-disc px-5 text-right'>
-              <li><span className='font-semibold text-lg '>  محمد العربي بشوش:</span> تخصص فقه واصول كلية العلوم الاسلامية جامعة الوادي</li>
-              <li><span className='font-semibold text-lg '>رتيبة بضياف :</span> تخصص فقه واصول كلية العلوم الاسلامية جامعة الوادي</li>
-              <li><span className='font-semibold text-lg '> حورية حمادي:</span> تخصص فقه واصول كلية العلوم الاسلامية جامعة الوادي</li>
+              <li><span className='font-semibold text-lg '>  الدكتور محمد العربي ببوش:</span>  تخصص فقه واصول كلية العلوم الاسلامية جامعة الوادي  <span className='font-semibold text-lg '>  (مشرفا) </span> </li>
+              <li><span className='font-semibold text-lg '>الطالبة رتيبة بضياف :</span> تخصص فقه واصول كلية العلوم الاسلامية جامعة الوادي</li>
+              <li><span className='font-semibold text-lg '> الطالبة حورية حمادي:</span> تخصص فقه واصول كلية العلوم الاسلامية جامعة الوادي</li>
               
             </ul>
           </div>
